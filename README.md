@@ -15,7 +15,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ## Overview
 
-This is an HTML & CSS beginner challenge. This is perfect for anyone that is just starting out with HTML & CSS or someone who wants a refresher. The main challenge is to build out a preview card component to match the desgin as close as possible. 
+This is an HTML & CSS beginner challenge. This is perfect for anyone that is just starting out with HTML & CSS or someone who wants a refresher. The main challenge is to build out a preview card component to match the design as close as possible. 
 
 ### The challenge
 
@@ -44,10 +44,9 @@ Users should be able to:
 
 ### What I learned
 
-There wasn't anything new that I learnt while completeing this challenge as I was using it as a starting point for Frontend Mentor and a refresher of HTML & CSS. 
+I didn't learn anything new while completing this challenge as I was using it as a starting point for Frontend Mentor and a refresher of HTML & CSS. 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@jaymew88](https://www.frontendmentor.io/profile/jaymew88)
 
